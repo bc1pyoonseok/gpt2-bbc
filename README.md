@@ -17,7 +17,7 @@
 
 ### About
 	this model is based on gpt2 large and fine tuned with bbc script dataset.
-  this model generates bbc script based on your input keyword
+  	this model generates bbc script based on your input keyword.
 
 ### How to use
 

@@ -20,14 +20,14 @@
 
 ### How to use
 
-	three ways to use Gpt2 covid article
+	three ways to use Gpt2 bbc
     	1.  CLI
     	2.  Swagger
     	3.  Demo
 
 ### GET parameter
 
-    keyword: keyword of covid article you want to generate
+    keyword: keyword of bbc script you want to generate
 
 
 ### Output format

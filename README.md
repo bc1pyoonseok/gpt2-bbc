@@ -16,7 +16,8 @@
 
 
 ### About
-	it is the gpt2 large base model that generate bbc script based on your input keyword
+	this model is based on gpt2 large and fine tuned with bbc script dataset.
+  this model generates bbc script based on your input keyword
 
 ### How to use
 
